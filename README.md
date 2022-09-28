@@ -24,3 +24,11 @@ maximum profit.python
 phone progrmme.python
 vowel.python
 stair case.python
+Mth and Nth number.python
+positive and negative numbers.python
+mirror programme.python
+trianglearray.python
+N factorial.python
+first n perfect and first m factor.python
+online retailer.python
+pattern9.python
