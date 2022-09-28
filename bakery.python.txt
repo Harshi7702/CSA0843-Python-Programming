@@ -1,0 +1,9 @@
+a=int(input("enter the no. of fresh leaves"))
+b=int(input("enter the no.of old day leaves"))
+print("leaves discount....")
+print("regular prize:185.00")
+d=[185.00*a]
+f=[b*0,6*185.00]
+print("amount of new leaves:",d)
+print("amount of old leaves:",f)
+print("total amount:",d+f)
