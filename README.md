@@ -33,3 +33,12 @@ first n perfect and first m factor.python
 online retailer.python
 pattern9.python
 match string.python
+simple interest.python
+sum square.python
+maximum number of words.python
+skipping numbers.python
+leap year.python
+pattern programme.python
+merge two sorted list.python
+addition matrix.python
+combinations.python
