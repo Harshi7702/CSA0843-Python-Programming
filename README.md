@@ -42,3 +42,12 @@ pattern programme.python
 merge two sorted list.python
 addition matrix.python
 combinations.python
+ascending and descending.python
+vowelss.python
+square and cube.python
+college management.python
+without function reverse number.python
+print pattern1.python
+smaller number.python
+vowels,consonants.python
+reverse a number.python
